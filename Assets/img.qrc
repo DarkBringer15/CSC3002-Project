@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>menu.png</file>
+        <file>dashboardsmall2.png</file>
+        <file>4891323.png</file>
+        <file>cuhk60_logo.png</file>
+        <file>the-chinese-university-of-hong-kong-logo-F21185E146-seeklogo.com.png</file>
+        <file>dashboardsmall1.png</file>
+        <file>dashboard2.png</file>
+        <file>signoutsmall1.png</file>
+        <file>signout2.png</file>
+        <file>students3.png</file>
+        <file>students4.png</file>
+        <file>dashboard1.png</file>
+        <file>PngItem_3560316(1).png</file>
+        <file>kisspng-multi-user-end-user-users-group-information-5ae2558e385407.3783369715247824782307.png</file>
+        <file>signoutsmall2.png</file>
+    </qresource>
+</RCC>
